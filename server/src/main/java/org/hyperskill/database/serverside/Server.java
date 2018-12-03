@@ -1,6 +1,4 @@
-package com.hyperskill.database.serverside;
-
-
+package org.hyperskill.database.serverside;
 
 public class Server {
     public static void main(String[] args) {
